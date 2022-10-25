@@ -1,4 +1,6 @@
-# CS571 Week 01: Badger Bakery
+# My attempt for Cole's Homework 1
+
+<!-- # CS571 Week 01: Badger Bakery
 
 Welcome to Badger Bakery! For this assignment, you will be completing the functionality of the `.html`, `.css`, and `.js` files. Following, you will complete the design thinking process in this `README.md`.  **Make sure to complete both the "JavaScript Essentials" and "Design Thinking" sections.**
 
@@ -134,3 +136,4 @@ ChatBot Usability Test: Using the chatbot on Badger Bakery, order one dozen bage
 
 We've done enough coding for this week! There is no deliverable for implementing.
 
+ -->
