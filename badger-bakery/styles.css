@@ -1,0 +1,21 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+  background-color: red;
+  border: none;
+  padding: 1em;
+  color: yellow;
+}
+
+.secondary-button {
+  background-color: green;
+  border: 2cm;
+  padding: 1em;
+  color: white;
+}
